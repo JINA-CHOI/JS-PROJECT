@@ -1,0 +1,89 @@
+body {
+  font-family: sans-serif;
+  background-color: rgb(255, 230, 198);
+  color: cornflowerblue;
+
+}
+.All{  
+  width: 90%;
+  margin: 10px auto;
+}
+
+/*쇼핑몰 이름칸*/
+.form,
+.greetings{
+  display: none;
+  font-size: 30px;
+  color:rgb(100, 180, 154);
+  text-align: center;
+  
+}
+
+.showing{
+  display: block;
+}
+
+/*시계*/
+.js-title{
+  font-size: 30px;
+  text-align: center;
+}
+
+/*쇼핑리스트*/
+.js-toDoForm{
+  font-size: 30px;
+  color:rgb(0, 255, 170);
+  text-align: center;
+}
+
+.js-list{
+  border: 10px solid lightsalmon;
+  
+}
+
+
+.pending{
+  border: 10px solid lightsalmon;
+  float: left;
+  width:40%;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  text-align: left;
+  /*
+  width: 400px;
+  height: 400px;
+  float: left;
+  margin-left: 10%;
+  */
+}
+
+.finish{
+  border: 10px solid lightsalmon;
+    float: right;
+    width:40%;
+    box-sizing: border-box;
+    text-align: left;
+    /*
+    margin-right: 10%;
+  height: 400px;
+  width: 400px;
+  display: inline-block;
+  */
+}
+
+
+h2{
+  color: lightslategrey;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  font-size: 70px;
+}
+
+ul{
+  font-weight: bold;
+  color: cornflowerblue;
+}
+
