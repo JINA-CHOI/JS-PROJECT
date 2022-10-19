@@ -6,6 +6,8 @@
  
  # 👩🏻‍💻구현
 https://jina-choi.github.io/JS-PROJECT/project/pr1/index.html
+https://jina-choi.github.io/JS-PROJECT/project/pr2/index.html
+https://jina-choi.github.io/JS-PROJECT/project/pr3/index.html
 
 <br/>
 <br/>
