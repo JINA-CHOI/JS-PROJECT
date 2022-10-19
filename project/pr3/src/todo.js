@@ -102,7 +102,6 @@ function finishedToDo(text) {
       text: text,
       id: newId
     };
-    //FINISHED=toFinishedList;
     FINISHED.push(toFinishedObj);
     saveFinish();
   }

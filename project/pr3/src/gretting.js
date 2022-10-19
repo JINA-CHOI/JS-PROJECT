@@ -28,16 +28,15 @@ function askForName(){
 function paintGreeting(text){
     form.classList.remove(SHOWING_CN);
     greeting.classList.add(SHOWING_CN);
-    greeting.innerText=`Let's go to ${text}`;
+    greeting.innerText=`Let's go
+     to ${text}`;
 }
 
 function loadName(){
     const currentUser = localStorage.getItem(USER_LS);
     if(currentUser === null){
-        //she is not
         askForName();
     }else{
-        //she is
         paintGreeting(currentUser);
     }
 }
