@@ -14,6 +14,8 @@ https://jina-choi.github.io/JS-PROJECT/project/pr3/index.html
 https://jina-choi.github.io/JS-PROJECT/project/pr4/index.html
 <br/>
 https://jina-choi.github.io/JS-PROJECT/project/pr5/index.html
+<br/>
+https://jina-choi.github.io/JS-PROJECT/project/pr6/index.html
 
 <br/>
 <br/>
