@@ -5,17 +5,17 @@
 <br/>
  
  # 👩🏻‍💻구현
-https://jina-choi.github.io/JS-PROJECT/project/pr1/index.html 
+https://jina-choi.github.io/js-project/project/pr1/index.html 
 <br/>
-https://jina-choi.github.io/JS-PROJECT/project/pr2/index.html
+https://jina-choi.github.io/js-project/project/pr2/index.html
 <br/>
-https://jina-choi.github.io/JS-PROJECT/project/pr3/index.html
+https://jina-choi.github.io/js-project/project/pr3/index.html
 <br/>
-https://jina-choi.github.io/JS-PROJECT/project/pr4/index.html
+https://jina-choi.github.io/js-project/project/pr4/index.html
 <br/>
-https://jina-choi.github.io/JS-PROJECT/project/pr5/index.html
+https://jina-choi.github.io/js-project/project/pr5/index.html
 <br/>
-https://jina-choi.github.io/JS-PROJECT/project/pr6/index.html
+https://jina-choi.github.io/js-project/project/pr6/index.html
 
 <br/>
 <br/>
